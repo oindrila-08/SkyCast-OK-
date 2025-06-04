@@ -4,11 +4,7 @@ SkyCast is a sleek and simple weather web application that allows users to searc
 
 ---
 
-## 🔗 Live Demo
-
-🌐 [View SkyCast Live]((https://oindrila-08.github.io/SkyCast-OK-/))  
-
----
+https://oindrila-08.github.io/SkyCast-OK-/ (live demo)
 
 ## 🚀 Features
 
